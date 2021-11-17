@@ -1,0 +1,12 @@
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+}
+.title {
+  margin-top: 30px;
+  text-transform: capitalize;
+  margin-bottom: 40px;
+}
